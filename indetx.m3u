@@ -1,0 +1,42 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-type="Business" group-title="TS-JioTV Business" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in4/app/catchup/ts_catchup_143_${catchup-id}_${start}_${stop}.m3u8",CNBC TV18 Prime
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_143.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-type="Entertainment" group-title="TS-JioTV Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in4/app/catchup/ts_catchup_144_${catchup-id}_${start}_${stop}.m3u8",Colors HD
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_144.m3u8
+
+#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-type="Infotainment" group-title="TS-JioTV Infotainment" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in4/app/catchup/ts_catchup_146_${catchup-id}_${start}_${stop}.m3u8",History TV18 HD
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_146.m3u8
+
+#EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-type="Movies" group-title="TS-JioTV Movies" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",Movies Now HD
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_151.m3u8
+
+#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-type="Entertainment" group-title="TS-JioTV Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in4/app/catchup/ts_catchup_154_${catchup-id}_${start}_${stop}.m3u8",Sony SAB
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_154.m3u8
+
+#EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-type="Sports" group-title="TS-JioTV Sports" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Ten 5 HD
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_155.m3u8
+
+#EXTINF:-1 tvg-id="162" tvg-name="Sony Ten 1 HD" tvg-type="Sports" group-title="TS-JioTV Sports" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1 HD
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_162.m3u8
+
+#EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-type="Lifestyle" group-title="TS-JioTV Lifestyle" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in4/app/catchup/ts_catchup_164_${catchup-id}_${start}_${stop}.m3u8",Travelxp HD
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_164.m3u8
+
+#EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network Telugu" tvg-type="Kids" group-title="TS-JioTV Kids" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png",Cartoon Network Telugu
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_166.m3u8
+
+#EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" tvg-type="News" group-title="TS-JioTV News" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in4/app/catchup/ts_catchup_173_${catchup-id}_${start}_${stop}.m3u8",Aaj Tak
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_173.m3u8
+
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-type="Devotional" group-title="TS-JioTV Devotional" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in4/app/catchup/ts_catchup_175_${catchup-id}_${start}_${stop}.m3u8",Aastha
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_175.m3u8
+
+#EXTINF:-1 tvg-id="177" tvg-name="ABP News India" tvg-type="News" group-title="TS-JioTV News" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in4/app/catchup/ts_catchup_177_${catchup-id}_${start}_${stop}.m3u8",ABP News India
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_177.m3u8
+
+#EXTINF:-1 tvg-id="180" tvg-name="Asianet News" tvg-type="News" group-title="TS-JioTV News" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" catchup-days="7" catchup="auto" catchup-source="http://mini.allinonereborn.fun:80/jiotv-in4/app/catchup/ts_catchup_180_${catchup-id}_${start}_${stop}.m3u8",Asianet News
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_180.m3u8
+
+#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-type="Movies" group-title="TS-JioTV Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",B4U Movies
+http://mini.allinonereborn.fun:80/jiotv-in4/app/ts_live_182.m3u8
